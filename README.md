@@ -3,7 +3,7 @@ about innovation, automation, and technology-driven solutions.
 
 My journey spans diverse fields, from electrical engineering to PLC
 programming and converting tractors to electric power.
-Currently, I’m exploring opportunities in and **automation** and **automation**.
+Currently, I’m exploring opportunities in **AI** and **automation**.
 
 ---
 
